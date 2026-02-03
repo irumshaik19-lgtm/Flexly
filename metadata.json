@@ -1,0 +1,8 @@
+{
+  "name": "Flexly - Nationwide Gym Aggregator",
+  "description": "The ultimate platform for fitness freedom. Discover gyms nearby, pay per session with digital passes, and manage your gym business with ease. One Pass. Endless Gyms.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
